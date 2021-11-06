@@ -18,7 +18,7 @@ To include in your project:
 ```clj
 ;; deps.edn
 
-{mycelium/mycelium {:mvn/version "0.1.0"}}
+{net.clojars.jude/mycelium {:mvn/version "0.1.0"}}
 ```
 
 The project only has one namespace `mycelium.core` and one public function `graph->dot` which takes a collection of nodes and a collection of edges. Both can be of any type.
