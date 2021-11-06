@@ -1,4 +1,4 @@
-![](/mycelium.jpg)
+![](img/mycelium.jpg)
 
 Mycelium is a library for converting a Clojure representation of a graph data structure to Graphviz's 'dot' input language.
 
